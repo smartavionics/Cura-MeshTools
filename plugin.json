@@ -1,8 +1,8 @@
 {
     "name": "Mesh Tools",
     "author": "fieldOfView",
-    "version": "3.5.1",
+    "version": "4.0.0",
     "description": "Adds several mesh analysis and manipulation tools",
-    "api": 5,
+    "api": 6,
     "i18n-catalog": "cura"
 }
